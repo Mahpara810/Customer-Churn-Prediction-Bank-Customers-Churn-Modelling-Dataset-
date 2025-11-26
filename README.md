@@ -54,16 +54,16 @@ Comprehensive evaluation using:
 
 ## 🚀 Installation & Setup
 
-1. **Clone the repository**
+### 1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/customer-churn-prediction.git
 cd customer-churn-prediction
 ```
-2. **Install required dependencies**
+### 2. **Install required dependencies**
 ```
 pip install -r requirements.txt
 ```
-3. **Set up Kaggle API (for dataset download)**
+### 3. **Set up Kaggle API (for dataset download)**
 - Place your ```kaggle.json ``` file in the appropriate directory
 
 - Update the path in the notebook if needed
