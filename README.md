@@ -83,6 +83,7 @@ customer-churn-prediction/
 ```
 jupyter notebook "Customer_Churn_Prediction(Bank Customers).ipynb"
 ```
+
 2. Execute cells sequentially to:
 - Download and extract the dataset
 
@@ -93,6 +94,7 @@ jupyter notebook "Customer_Churn_Prediction(Bank Customers).ipynb"
 - Train and evaluate machine learning models
 
 - Analyze feature importance
+
 ## 📊 Results
 - Dataset successfully cleaned and prepared
 
@@ -101,6 +103,7 @@ jupyter notebook "Customer_Churn_Prediction(Bank Customers).ipynb"
 - Feature importance analysis completed
 
 - Model performance metrics calculated for comparison
+
 ## 🎓 Skills Demonstrated
 - **Data Preprocessing:** Handling missing values, encoding categorical data
 
@@ -111,7 +114,9 @@ jupyter notebook "Customer_Churn_Prediction(Bank Customers).ipynb"
 - **Model Evaluation:** Comprehensive performance assessment
 
 - **Feature Engineering:** Understanding and interpreting feature importance
+
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for suggestions.
+
 ## 📄 License
 This project is open source and available under the MIT License.
