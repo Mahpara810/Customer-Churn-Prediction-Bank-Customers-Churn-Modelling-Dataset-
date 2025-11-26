@@ -67,8 +67,9 @@ pip install -r requirements.txt
 - Place your ```kaggle.json ``` file in the appropriate directory
 
 - Update the path in the notebook if needed
-  ## 📁 Project Structure
-  ```bash
+  ## 📁 Project Structure  
+```md
+```bash
 customer-churn-prediction/
 │
 ├── Customer_Churn_Prediction(Bank Customers).ipynb
