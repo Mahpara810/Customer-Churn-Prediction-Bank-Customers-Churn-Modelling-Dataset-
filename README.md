@@ -79,13 +79,14 @@ customer-churn-prediction/
 └── README.md
 ```
 ## 🏃‍♂️ Usage
-1. Run the Jupyter Notebook:
+1. **Run the Jupyter Notebook:**
+
 ```bash
 jupyter notebook "Customer_Churn_Prediction(Bank Customers).ipynb"
 
 ```
 
-2. Execute cells sequentially to:
+2. **Execute cells sequentially to:**
 - Download and extract the dataset
 
 - Perform data cleaning and preprocessing
