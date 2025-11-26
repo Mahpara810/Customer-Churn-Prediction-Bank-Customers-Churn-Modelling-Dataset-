@@ -69,7 +69,7 @@ pip install -r requirements.txt
 - Update the path in the notebook if needed
   ## 📁 Project Structure  
 ```md
-```bash
+
 customer-churn-prediction/
 │
 ├── Customer_Churn_Prediction(Bank Customers).ipynb
