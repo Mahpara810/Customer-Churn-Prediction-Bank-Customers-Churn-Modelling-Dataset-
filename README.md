@@ -82,6 +82,7 @@ customer-churn-prediction/
 1. Run the Jupyter Notebook:
 ```
 jupyter notebook "Customer_Churn_Prediction(Bank Customers).ipynb"
+
 ```
 
 2. Execute cells sequentially to:
