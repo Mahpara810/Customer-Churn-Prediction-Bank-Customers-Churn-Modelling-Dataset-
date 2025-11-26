@@ -68,7 +68,8 @@ pip install -r requirements.txt
 
 - Update the path in the notebook if needed
   ## 📁 Project Structure
-  ``` customer-churn-prediction/
+  ```
+customer-churn-prediction/
 │
 ├── Customer_Churn_Prediction(Bank Customers).ipynb
 ├── churn-modelling/
@@ -113,4 +114,4 @@ jupyter notebook "Customer_Churn_Prediction(Bank Customers).ipynb"
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for suggestions.
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source and available under the MIT License.
