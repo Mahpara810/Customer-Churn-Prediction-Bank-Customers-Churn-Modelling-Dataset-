@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 - Update the path in the notebook if needed
   ## 📁 Project Structure
-  ```
+  ```bash
 customer-churn-prediction/
 │
 ├── Customer_Churn_Prediction(Bank Customers).ipynb
@@ -80,7 +80,7 @@ customer-churn-prediction/
 ```
 ## 🏃‍♂️ Usage
 1. Run the Jupyter Notebook:
-```
+```bash
 jupyter notebook "Customer_Churn_Prediction(Bank Customers).ipynb"
 
 ```
